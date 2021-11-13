@@ -1,6 +1,5 @@
  ; CSC 234 Assignment 2
  ; Name: ADEOTI WARITH ADETAYO
- ; Matric No: 214851
  ; Computer Science, 200lv
  ; November 11, 2021
  
@@ -24,7 +23,7 @@ PUTC 9
 PUTC 9
 PUTC 9
 PUTC 9
-PRINT "By Adeoti Warith Adetayo (214851)"
+PRINT "By Adeoti Warith Adetayo"
 PUTC 10
 PUTC 13
 
