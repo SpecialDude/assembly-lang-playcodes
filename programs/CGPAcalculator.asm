@@ -1,6 +1,5 @@
 ; CSC 234 Assignment
 ; Name: ADEOTI WARITH ADETAYO
-; Matric No.: 214851
 ; Computer Science, 200lv
 ; November 31, 2021
 
@@ -19,14 +18,6 @@ PUTC 9
 PRINT "CGPA OF ADEOTI WARITH ADETAYO"
 PUTC 10   ; Printing a newline character
 PUTC 13   ; Printing a carriage return character
-PUTC 9
-PUTC 9
-PUTC 9 
-PRINT "MATRIC NO.: 214851"
-PUTC 10
-PUTC 10
-PUTC 10
-PUTC 13
 ;End of Info Printing
 
 
